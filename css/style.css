@@ -1,0 +1,58 @@
+.navbar {
+    background-image: linear-gradient(to top, rgba(62, 91, 137, 1), rgba(23, 44, 77, 1));
+}
+
+.jumbotron{
+    background-image: linear-gradient(to top, rgba(23, 44, 77, 1), rgba(62, 91, 137, 1));
+    background-size: cover;
+    width: auto;
+    min-height: 600px;
+}
+
+.jumbotron .container{
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jumbotron .container img{
+    max-width: 24px;
+    max-height: 24px;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(225deg) brightness(106%) contrast(101%);
+}
+
+
+.container .row{
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 5%;
+}
+
+.container .row img{
+    max-width: 80px;
+    margin: 0;
+    max-height: 100px;
+}
+
+.container .progress-me{
+    margin-top: 5%;
+}
+
+.container .work{
+        margin-top: 5%; 
+}
+
+.container .work .card-group{
+    padding: 10px;
+    border-width: 0px;
+    margin: auto;
+}
+
+.container .work .card-group .card{
+    padding: 10px;
+}
+
+.container .text-center a{
+    margin-top: 5%
+}
