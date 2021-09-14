@@ -48,10 +48,10 @@
          <p class="text-center">I'm passionate about creating engaging apps, design<br>and many more with technology. <a href="">Click here for more detail</a></p>
             <div class="container">
                 <div class="row row-cols-3">
-                        <div class="col"><img src="ui.svg"><p><p class="lead2 font-weight-bold">Make Design<p>We make designs interesting accordingly client need</div>
-                        <div class="col"><img src="ui.svg"><p><p class="lead2 font-weight-bold">Design to Code<p>We create clean code with pre-made designs</div>
-                        <div class="col"><img src="ui.svg"><p><p class="lead2 font-weight-bold">Dynamic Apps<p>We create dynamic applications according to the latest data</div>
-                          <div class="col"><img src="ui.svg"><p><p class="lead2 font-weight-bold">Dynamic Apps<p>We create dynamic applications according to the latest data</div>
+                        <div class="col"><img src="image/ui.svg"><p><p class="lead2 font-weight-bold">Make Design<p>We make designs interesting accordingly client need</div>
+                        <div class="col"><img src="image/ui.svg"><p><p class="lead2 font-weight-bold">Design to Code<p>We create clean code with pre-made designs</div>
+                        <div class="col"><img src="image/ui.svg"><p><p class="lead2 font-weight-bold">Dynamic Apps<p>We create dynamic applications according to the latest data</div>
+                          <div class="col"><img src="image/ui.svg"><p><p class="lead2 font-weight-bold">Dynamic Apps<p>We create dynamic applications according to the latest data</div>
                 </div>
             </div>
 
@@ -161,7 +161,7 @@
             
             <div class="card">
               <div data-aos="fade-right">
-                  <img src="design1.png" class="card-img-top" alt="...">
+                  <img src="image/design1.png" class="card-img-top" alt="...">
                       <div class="card-body">
                             <h5 class="card-title">ShowRoom</h5>
                             <p class="card-text">
@@ -186,7 +186,7 @@
 
             <div class="card">
               <div data-aos="fade-left">
-                  <img src="design2.png" class="card-img-top" alt="...">
+                  <img src="image/design2.png" class="card-img-top" alt="...">
                       <div class="card-body">
                             <h5 class="card-title">ShowRoom</h5>
                             <p class="card-text">
@@ -217,7 +217,7 @@
 
             <footer>
             <div class="row text-center text-light">
-              <div class="col-md-4 copy"><img src="facebook.png"><img src="instagram.png"><img src="twitter.png"></div>
+              <div class="col-md-4 copy"><img src="image/facebook.png"><img src="instagram.png"><img src="twitter.png"></div>
               <div class="col-md-4 copy"><p>Copyright © 2021 - Dimas Jayadi</p></div>
               <div class="col-md-4"></div>
             </div>
